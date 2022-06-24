@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @melatonein5
 - 👀 I’m interested in music, gaming, programming & beer
-- 🌱 I’m currently learning woodworking (and golang & dart)
+- 🌱 I’m currently learning Golang & Dart
 - 💞️ I’m looking to collaborate on webapp projects, cloud infacstructure
 - 📫 How to reach me jmn@jmnetwork.uk
 
